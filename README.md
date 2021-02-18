@@ -18,4 +18,4 @@
 
 **Emoji**
 
-:grimacing:
+:yellow_heart:
